@@ -19,6 +19,6 @@ siyuantang@pku.edu.cn, 1992.siyuan.tang@gmail.com
 
 - Rigidity of joinings for time-changes of unipotent flows on quotients of Lorentz groups. <strong>Ergodic Theory Dynam. Systems</strong>. [[Journal]](https://doi.org/10.1017/etds.2022.83)
 
-- New time-changes of unipotent flows on quotients of Lorentz groups. <strong>J. Mod. Dynamics</strong>. [[Journal]](https://doi.org/10.3934/jmd.2022002) 
+- New time-changes of unipotent flows on quotients of Lorentz groups. <strong>J. Mod. Dynamics</strong>. [[Pdf]](../NewTimeChanges.pdf) [[Journal]](https://doi.org/10.3934/jmd.2022002) 
 
 ### Notes
