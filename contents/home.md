@@ -15,7 +15,7 @@ siyuantang@pku.edu.cn, 1992.siyuan.tang@gmail.com
 
 - Effective exponential drifts on strata of abelian differentials. <strong>Preprint</strong>. [[pdf]](../MargulisFunction.pdf)
 
-- Effective density of surfaces near Teichmuller curves. <strong>Preprint</strong>.  [[pdf]](../EffectiveDensity.pdf)
+- Effective density of surfaces near Teichmüller curves. <strong>Preprint</strong>.  [[pdf]](../EffectiveDensity.pdf)
 
 - Rigidity of joinings for time-changes of unipotent flows on quotients of Lorentz groups. <strong>Ergodic Theory Dynam. Systems (2022)</strong>. [[pdf]](../Joinings.pdf) [[Journal]](https://doi.org/10.1017/etds.2022.83)
 
