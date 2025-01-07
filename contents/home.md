@@ -13,14 +13,16 @@ siyuantang@pku.edu.cn, 1992.siyuan.tang@gmail.com
 
 ### Preprints and publications
 
-- Effective exponential drifts on strata of abelian differentials. <strong>Preprint</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- Effective exponential drifts on strata of abelian differentials. <strong>Preprint</strong>. [[Pdf]](../MargulisFunction.pdf)
 
-- Effective density of surfaces near Teichmuller curves. <strong>Preprint</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- Effective density of surfaces near Teichmuller curves. <strong>Preprint</strong>.  [[Pdf]](../EffectiveDensity.pdf)
 
-- Rigidity of joinings for time-changes of unipotent flows on quotients of Lorentz groups. <strong>Ergodic Theory Dynam. Systems (2022)</strong>. [[Pdf]](../NewTimeChanges.pdf) [[Journal]](https://doi.org/10.1017/etds.2022.83)
+- Rigidity of joinings for time-changes of unipotent flows on quotients of Lorentz groups. <strong>Ergodic Theory Dynam. Systems (2022)</strong>. [[Pdf]](../Joinings.pdf) [[Journal]](https://doi.org/10.1017/etds.2022.83)
 
 - New time-changes of unipotent flows on quotients of Lorentz groups. <strong>J. Mod. Dynamics (2022)</strong>. [[Pdf]](../NewTimeChanges.pdf) [[Journal]](https://doi.org/10.3934/jmd.2022002) 
 
 ### Notes
 
-- 2024 Fall, Calculus A.  [[Pdf]](../NewTimeChanges.pdf) 
+- 2024 Fall, Calculus A.  [[Pdf]](../Calculus.pdf)     
+For those who choose this text, I assume you are learning/have learned linear algebra. I recommend that you also read the [lecture notes](https://yuxiangjiao.github.io/Notes/) by <strong>Yuxiang Jiao<strong> at the same time. These lecture notes have a clear explanation for most of the problems that appear in my text. 
+As another option, I recommend the [textbook](https://gitee.com/galvin-lai/Advanced-Mathematics-Class-B-07) written by <strong>Zhijian Lai<strong>. It contains various demonstrations and examples that can help you understand the theory in more detail.
