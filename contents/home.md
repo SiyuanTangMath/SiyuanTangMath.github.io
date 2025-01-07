@@ -24,6 +24,5 @@ siyuantang@pku.edu.cn, 1992.siyuan.tang@gmail.com
 ### Notes
 
 - 2024 Fall, Calculus A.  [[Pdf]](../Calculus.pdf)     
-For those who choose this text, I assume you are learning/have learned <strong><strong>linear algebra</strong></strong>. I recommend that you also read the [lecture notes](https://yuxiangjiao.github.io/Notes/) by <strong>Yuxiang Jiao</strong> at the same time. These lecture notes have a clear explanation for most of the problems that appear in my text. 
-
+For those who choose this text, I assume you are learning/have learned <strong><strong>linear algebra</strong></strong>. I recommend that you also read the [lecture notes](https://yuxiangjiao.github.io/Notes/) by <strong>Yuxiang Jiao</strong> at the same time. These lecture notes have a clear explanation for most of the problems that appear in my text.      
 As another option, I recommend the [textbook](https://gitee.com/galvin-lai/Advanced-Mathematics-Class-B-07) written by <strong>Zhijian Lai</strong>. It contains various demonstrations and examples that can help you understand the theory in more detail.
