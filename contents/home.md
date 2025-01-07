@@ -1,16 +1,11 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+#### How to reach me
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+Address:\
+[Beijing International Center for Mathematical Research, Peking University](https://bicmr.pku.edu.cn/)\ 
+No.5 Yiheyuan Road Haidian District, Beijing, China 100871\
+Office: Quan 16-1
 
-#### Email
-sli[at]cumt.edu.cn
-
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
-
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+Email:\
+siyuantang@pku.edu.cn, 1992.siyuan.tang@gmail.com 
