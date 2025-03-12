@@ -2,7 +2,7 @@
 
 Hello! I'm Siyuan Tang. I did my PhD with Prof. David Fisher at Indiana University Bloomington in 2022.
 
-I'm interested in dynamical systems. So far, I mainly focused on understanding the orbit behavior and the measure classification of the homogeneous spaces and moduli spaces. For example, if we know that a long orbit of some action on some algebraic or geometric objects, what can we say about this orbit? Is it possible to be dense or evenly distributed in a meaningful way?  It turns out that such problems are related to [Ratner's theorem](https://en.wikipedia.org/wiki/Ratner%27s_theorems) and [Eskin-Mirzakhani-Mohammadi’s theorem](https://arxiv.org/pdf/1502.05654) .  
+I'm interested in dynamical systems. So far, I mainly focused on understanding the orbit behavior and the measure classification of the homogeneous spaces and moduli spaces. For example, if we know that a long orbit of some action on some algebraic or geometric objects, what can we say about this orbit? Is it possible to be dense or evenly distributed in a meaningful way?  It turns out that such problems are related to [Ratner's theorem](https://en.wikipedia.org/wiki/Ratner%27s_theorems) and [Eskin-Mirzakhani-Mohammadi’s theorem](https://arxiv.org/pdf/1502.05654).  
 
 I am a postdoc member of mathematics at Peking University. 
 
